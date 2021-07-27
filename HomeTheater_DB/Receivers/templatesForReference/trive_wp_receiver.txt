@@ -1,0 +1,23 @@
+<p class="has-text-align-center">11.2 Channel AV Receiver with HEOS Music Streaming--Alan</p>
+<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size is-style-outline has-normal-font-size has-text-align-center"><a class="wp-block-button__link" href="https://www.amazon.com/Marantz-SR8015-Channel-Receiver-Streaming/dp/B08CVS4FVJ/ref=sr_1_1?dchild=1&amp;keywords=marantz+receiver&amp;qid=1627388254&amp;sr=8-1" rel="https://www.amazon.com/Marantz-SR8015-Channel-Receiver-Streaming/dp/B08CVS4FVJ/ref=sr_1_1?dchild=1&amp;keywords=marantz+receiver&amp;qid=1627388254&amp;sr=8-1">Know More</a></div>
+<table data-rows="2" data-cols="2" data-v="middle">
+   <thead></thead>
+   <tbody>
+      <tr>
+         <td data-th="Item 1">
+            <p style="color: var(--tcb-skin-color-4)  !important; --tcb-applied-color:var$(--tcb-skin-color-4)  !important;">price</p>
+         </td>
+         <td data-th="Item 2">
+            <p style="color: var(--tcb-skin-color-4)  !important; --tcb-applied-color:var$(--tcb-skin-color-4)  !important;">3,299.00 USD</p>
+         </td>
+      </tr>
+      <tr>
+         <td data-th="price">
+            <p style="color: var(--tcb-skin-color-4)  !important; --tcb-applied-color:var$(--tcb-skin-color-4)  !important;">channels</p>
+         </td>
+         <td data-th="3,299.00 USD">
+            <p style="color: var(--tcb-skin-color-4)  !important; --tcb-applied-color:var$(--tcb-skin-color-4)  !important;">13</p>
+         </td>
+      </tr>
+   </tbody>
+</table>

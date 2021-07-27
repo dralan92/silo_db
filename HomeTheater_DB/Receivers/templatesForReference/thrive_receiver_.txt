@@ -1,0 +1,69 @@
+<p style="">11.2 Channel AV Receiver with HEOS Music Streaming--Alan</p>
+<span><img alt="" data-id="20210727024839" width="400" data-init-width="400" height="400" data-init-height="400" title="Receiver_Marantz_SR8015" loading="lazy" src="//localhost:8888/wordpress/wp-content/uploads/2021/07/Receiver_Marantz_SR8015.jpg" data-width="400" data-height="400"></span>
+<table data-rows="7" data-cols="2" data-v="middle">
+   <thead></thead>
+   <tbody>
+      <tr>
+         <td data-th="Item 1">
+            <p style="color: var(--tcb-skin-color-4)  !important; --tcb-applied-color:var$(--tcb-skin-color-4)  !important;">price</p>
+         </td>
+         <td data-th="Item 2">
+            <p style="color: var(--tcb-skin-color-4)  !important; --tcb-applied-color:var$(--tcb-skin-color-4)  !important;">3,299.00 USD</p>
+         </td>
+      </tr>
+      <tr>
+         <td data-th="price">
+            <p style="color: var(--tcb-skin-color-4)  !important; --tcb-applied-color:var$(--tcb-skin-color-4)  !important;">channels</p>
+         </td>
+         <td data-th="3,299.00 USD">
+            <p style="color: var(--tcb-skin-color-4)  !important; --tcb-applied-color:var$(--tcb-skin-color-4)  !important;">13</p>
+         </td>
+      </tr>
+      <tr>
+         <td data-th="price">
+            <p style="color: var(--tcb-skin-color-4)  !important; --tcb-applied-color:var$(--tcb-skin-color-4)  !important;">power</p>
+         </td>
+         <td data-th="3,299.00 USD">
+            <p style="color: var(--tcb-skin-color-4)  !important; --tcb-applied-color:var$(--tcb-skin-color-4)  !important;">140W 8ohm 2 channels driven with 0.05%THD</p>
+         </td>
+      </tr>
+      <tr>
+         <td data-th="price" rowspan="1" colspan="1">
+            <p style="color: var(--tcb-skin-color-4)  !important; --tcb-applied-color:var$(--tcb-skin-color-4)  !important;">connections</p>
+         </td>
+         <td data-th="3,299.00 USD" rowspan="1" colspan="1">
+            <p style="color: var(--tcb-skin-color-4)  !important; --tcb-applied-color:var$(--tcb-skin-color-4)  !important;">HEOS, AirPlay, Bluetooth, Wi-Fi, HDMI HDCP2.3</p>
+         </td>
+      </tr>
+      <tr>
+         <td data-th="price" rowspan="1" colspan="1">
+            <p style="color: var(--tcb-skin-color-4)  !important; --tcb-applied-color:var$(--tcb-skin-color-4)  !important;">video</p>
+         </td>
+         <td data-th="3,299.00 USD" rowspan="1" colspan="1">
+            <p style="color: var(--tcb-skin-color-4)  !important; --tcb-applied-color:var$(--tcb-skin-color-4)  !important;">8K, 4K, Dolby Vision, HDR 10+,Dynamic HDR, HLG, ALLM, QMS, QFT, VRR</p>
+         </td>
+      </tr>
+      <tr>
+         <td data-th="price" rowspan="1" colspan="1">
+            <p style="color: var(--tcb-skin-color-4)  !important; --tcb-applied-color:var$(--tcb-skin-color-4)  !important;">audio</p>
+         </td>
+         <td data-th="3,299.00 USD" rowspan="1" colspan="1">
+            <p style="color: var(--tcb-skin-color-4)  !important; --tcb-applied-color:var$(--tcb-skin-color-4)  !important;">Dolby Atmos, Dolby TrueHD, Dolby Surround, DTS:X, IMAX Enhanced</p>
+         </td>
+      </tr>
+      <tr>
+         <td data-th="price" rowspan="1" colspan="1">
+            <p style="color: var(--tcb-skin-color-4)  !important; --tcb-applied-color:var$(--tcb-skin-color-4)  !important;">room</p>
+         </td>
+         <td data-th="3,299.00 USD" rowspan="1" colspan="1">
+            <p style="color: var(--tcb-skin-color-4)  !important; --tcb-applied-color:var$(--tcb-skin-color-4)  !important;">yes</p>
+         </td>
+      </tr>
+   </tbody>
+</table>
+<ul>
+   <li><span>With the latest technology in HDMI support, enjoy 8K quality video from all your 8K source devices.</span></li>
+   <li><span>Premium power performing amplification</span></li>
+   <li><span>8K upscaling is available on all eight HDMI ports.</span></li>
+   <li><span>Dolby Atmos Dolby Atmos Height Virtualization Technology</span></li>
+</ul>

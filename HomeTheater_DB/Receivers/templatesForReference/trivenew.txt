@@ -1,0 +1,60 @@
+<p class="has-text-align-center">11.2 Channel AV Receiver with HEOS Music Streaming</p>
+<div class="wp-block-image"><figure class="aligncenter size-full"><img alt="" data-id="20210727142050" width="400" data-init-width="400" height="400" data-init-height="400" title="Receiver_Marantz_SR8015-5" loading="lazy" src="//localhost:8888/wordpress/wp-content/uploads/2021/07/Receiver_Marantz_SR8015-5.jpg" data-width="400" data-height="400" style=""></figure></div>
+<style type="text/css">
+    .buttonalan  {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+    }
+</style>
+<button class="buttonalan aligncenter">Know More</button>
+<style type="text/css">
+    .divalan  {
+   	padding: 50px;
+  	margin: 20px;
+    }
+</style>
+<div class="divalan aligncenter">
+<table data-rows="3" data-cols="2" data-v="middle">
+   <thead></thead>
+   <tbody>
+      <tr>
+         <td data-th="Item 1">
+            <p>Feature 1</p>
+         </td>
+         <td data-th="Item 2">
+            <p>Feature 1</p>
+         </td>
+      </tr>
+      <tr>
+         <td data-th="Feature 1">
+            <p>Feature 2</p>
+         </td>
+         <td data-th="Feature 1">
+            <p>Feature 2</p>
+         </td>
+      </tr>
+      <tr>
+         <td data-th="Feature 1">
+            <p>Feature 3</p>
+         </td>
+         <td data-th="Feature 1">
+            <p>Feature 3</p>
+         </td>
+      </tr>
+   </tbody>
+</table>
+</div>
+<button class="buttonalan aligncenter">Know More</button>
+<div class="divalan aligncenter">
+<ul>
+   <li><span>List Element</span></li>
+   <li><span>List Element</span></li>
+   <li><span>List Element</span></li>
+</ul>
+</div>

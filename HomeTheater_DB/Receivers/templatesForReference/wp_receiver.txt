@@ -1,0 +1,27 @@
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">11.2&nbsp;Channel&nbsp;AV&nbsp;Receiver&nbsp;with&nbsp;HEOS&nbsp;Music&nbsp;Streaming</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":20210727142050,"sizeSlug":"full","linkDestination":"none"} -->
+<div class="wp-block-image"><figure class="aligncenter size-full"><img src="http://localhost:8888/wordpress/wp-content/uploads/2021/07/Receiver_Marantz_SR8015-5.jpg" alt="" class="wp-image-20210727142050"/></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"width":100,"className":"is-style-outline","fontSize":"normal"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size is-style-outline has-normal-font-size"><a class="wp-block-button__link" href="https://www.amazon.com/Marantz-SR8015-Channel-Receiver-Streaming/dp/B08CVS4FVJ/ref=sr_1_1?dchild=1&amp;keywords=marantz+receiver&amp;qid=1627388254&amp;sr=8-1" rel="https://www.amazon.com/Marantz-SR8015-Channel-Receiver-Streaming/dp/B08CVS4FVJ/ref=sr_1_1?dchild=1&amp;keywords=marantz+receiver&amp;qid=1627388254&amp;sr=8-1">Know More</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:table {"className":"is-style-stripes"} -->
+<figure class="wp-block-table is-style-stripes"><table><tbody><tr><td>Price</td><td>3600 USD</td></tr><tr><td>Popular Power Output</td><td>140W&nbsp;8ohm&nbsp;2&nbsp;channels&nbsp;driven&nbsp;with&nbsp;0.05%THD</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"width":100,"className":"is-style-outline","fontSize":"normal"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size is-style-outline has-normal-font-size"><a class="wp-block-button__link" href="https://www.amazon.com/Marantz-SR8015-Channel-Receiver-Streaming/dp/B08CVS4FVJ/ref=sr_1_1?dchild=1&amp;keywords=marantz+receiver&amp;qid=1627388254&amp;sr=8-1">Know More</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:list {"textColor":"black"} -->
+<ul class="has-black-color has-text-color"><li>Premium power performing amplification</li><li>8K upscaling is available on all eight HDMI ports</li></ul>
+<!-- /wp:list -->
